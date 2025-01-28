@@ -14,10 +14,10 @@ This **Restaurant Management System** is a **C++ console-based application** des
 - **Standard Template Library (STL)** - `map`, `unordered_map`, `queue`
 - **Object-Oriented Programming (OOP)**
 
-Future Enhancements
-Implement database support for persistent storage of reservations and orders.
-Develop a GUI version for better user experience.
-Introduce multi-user roles (admin, manager, waiter) for better management.
+## Future Enhancements
+- Implement **database support** for persistent storage of reservations and orders.
+- Develop a **GUI version** for better user experience.
+- Introduce **multi-user roles** (admin, manager, waiter) for better management.
 
-Author
-umama khan - Beginner Software Engineer & Web Developer
+## Author
+**umama khan** - Beginner Software Engineer & Web Developer
